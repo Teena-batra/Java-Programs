@@ -1,13 +1,14 @@
 package Sum_Of_N_Natural_Numbers;
 
+import java.util.Scanner;
+
 public class Main {
+
+    public static void sum(int n) {
+        System.out.println(n * ((n + 1) / 2));
+    }
+
     public static void main(String[] args) {
-        int sum = 0;
-        int n = 10;
-        for (int i = 1; i <= n; i += 1) {
-            sum += i;
-        }
-        System.out.println(sum);
-        System.out.println("hello");
+        sum(5);
     }
 }
