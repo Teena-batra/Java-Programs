@@ -8,13 +8,13 @@
 - [x] **[Count Digits](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)**
 - [x] **[Java Program to Convert Celsius into Fahrenheit](https://www.geeksforgeeks.org/java-program-to-convert-celsius-into-fahrenheit/)**
 - [x] [Swap two numbers](https://www.geeksforgeeks.org/java-program-to-swap-two-numbers/)
-- [ ] [**Java Program to Check if a Given Integer is Odd or Even**](https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
-- [ ] **[Java Program to Find the Largest of three Numbers](https://www.geeksforgeeks.org/java-program-to-find-the-largest-of-three-numbers/)**
+- [x] [**Java Program to Check if a Given Integer is Odd or Even**](https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
+- [x] **[Java Program to Find the Largest of three Numbers](https://www.geeksforgeeks.org/java-program-to-find-the-largest-of-three-numbers/)**
 - [ ] **[Java Program to Display All Prime Numbers from 1 to N](https://www.geeksforgeeks.org/java-program-to-display-all-prime-numbers-from-1-to-n/)**
 - [ ] **[Java Program to Find if a Given Year is a Leap Year](https://www.geeksforgeeks.org/java-program-to-find-if-a-given-year-is-a-leap-year/)**
 - [ ] Check the Number is Armstrong or Not
-- [ ] **[Java Program to Check Armstrong Number between Two Integers](https://www.geeksforgeeks.org/java-program-to-check-armstrong-number-between-two-integers/)**
-- [ ] **[Java Program to Check Whether the Character is Vowel or Consonant](https://www.geeksforgeeks.org/java-program-to-check-whether-the-character-is-vowel-or-consonant/)**
+- [x] **[Java Program to Check Armstrong Number between Two Integers](https://www.geeksforgeeks.org/java-program-to-check-armstrong-number-between-two-integers/)**
+- [x] **[Java Program to Check Whether the Character is Vowel or Consonant](https://www.geeksforgeeks.org/java-program-to-check-whether-the-character-is-vowel-or-consonant/)**
 - [ ] **[Java Program for factorial of a number](https://www.geeksforgeeks.org/java-program-for-factorial-of-a-number/)**
 - [ ] **[Program for Fibonacci numbers](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)**
 - [ ] **[Java Program to Calculate Simple Interest](https://www.geeksforgeeks.org/java-program-to-calculate-simple-interest/)**
