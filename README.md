@@ -1,7 +1,5 @@
 # Java Practice Programs
 
-# JAVA Question
-
 - [x] Scanner input
 - [x] **[Program to find sum of first n natural numbers](https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/)**
 - [x] Check case upper or lower
@@ -12,7 +10,7 @@
 - [x] **[Java Program to Find the Largest of three Numbers](https://www.geeksforgeeks.org/java-program-to-find-the-largest-of-three-numbers/)**
 - [ ] **[Java Program to Display All Prime Numbers from 1 to N](https://www.geeksforgeeks.org/java-program-to-display-all-prime-numbers-from-1-to-n/)**
 - [ ] **[Java Program to Find if a Given Year is a Leap Year](https://www.geeksforgeeks.org/java-program-to-find-if-a-given-year-is-a-leap-year/)**
-- [ ] Check the Number is Armstrong or Not
+- [x] Check the Number is Armstrong or Not
 - [x] **[Java Program to Check Armstrong Number between Two Integers](https://www.geeksforgeeks.org/java-program-to-check-armstrong-number-between-two-integers/)**
 - [x] **[Java Program to Check Whether the Character is Vowel or Consonant](https://www.geeksforgeeks.org/java-program-to-check-whether-the-character-is-vowel-or-consonant/)**
 - [ ] **[Java Program for factorial of a number](https://www.geeksforgeeks.org/java-program-for-factorial-of-a-number/)**
